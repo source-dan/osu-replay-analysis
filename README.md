@@ -5,6 +5,9 @@ The controversy gained traction when players and community members observed that
 
 This software address these concerns by providing accessible software that parses and analyses `.osr` replay files from osu!. By enabling players and spectators to examine key press events and optionally compute hold times, the tool promotes fair play and integrity.
 
+
+This software can be used to detect ReplayRidor, or any other form of replay riding/stealing. It can also be used to check for relax, DKS/Macros, or any other form of key-press/hit cheat.
+
 ## How It Works
 This Python program is designed to parse and analyse `.osr` replay files from the game osu!. It extracts key press events and optionally calculates and visualises hold times for each key press event. Here’s how to use it:
 
