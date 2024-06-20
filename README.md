@@ -23,6 +23,9 @@ This Python program is designed to parse and analyse `.osr` replay files from th
 4. **Output**:
    - The program will generate plots (`key_presses.png` or `hold_times.png`) and open them in your default web browser.
    - Total counts of key presses or hold times will be displayed in the terminal.
+  
+
+**NOTE:** REPLAY INCLUDED IS MREKK'S 1500pp PLAY ON: Owari Tsumugishi Mono by Denkishiki Karen Ongaku Shuudan | Lasse's Extra
 
 ## Naming Convention
 Ensure your replay file is named `replay.osr` for the program to correctly locate and analyze it.
