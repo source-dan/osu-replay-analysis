@@ -17,8 +17,8 @@ This Python program is designed to parse and analyse `.osr` replay files from th
 
 3. **Usage**:
 
-**__This software can be used to detect ReplayRidor, or any other form of replay riding/stealing. It can also be used to check for relax, DKS/Macros, or any other form of key-press/hit cheat.__
-**
+__This software can be used to detect ReplayRidor, or any other form of replay riding/stealing. It can also be used to check for relax, DKS/Macros, or any other form of key-press/hit cheat.__
+
    - **File Naming**: Ensure your replay file is named `replay.osr` and is placed in the same directory as `init.py`.
    - **Running the Program**: Open a terminal or command prompt, navigate to the directory containing `initr.py`, and run:
      ```bash
