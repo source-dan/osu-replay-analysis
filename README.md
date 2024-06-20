@@ -8,13 +8,13 @@ This software address these concerns by providing accessible software that parse
 ## How It Works
 This Python program is designed to parse and analyse `.osr` replay files from the game osu!. It extracts key press events and optionally calculates and visualises hold times for each key press event. Here’s how to use it:
 
-1. **Installation**: Clone the repository or download the `osu-replay-analyzer.py` file to your local machine.
+1. **Installation**: Clone the repository or download the `init.py` file to your local machine.
 
 2. **Dependencies**: Ensure you have Python 3.x installed along with the required libraries: `matplotlib` and `webbrowser`.
 
 3. **Usage**:
-   - **File Naming**: Ensure your replay file is named `replay.osr` and is placed in the same directory as `osu-replay-analyzer.py`.
-   - **Running the Program**: Open a terminal or command prompt, navigate to the directory containing `osu-replay-analyzer.py`, and run:
+   - **File Naming**: Ensure your replay file is named `replay.osr` and is placed in the same directory as `init.py`.
+   - **Running the Program**: Open a terminal or command prompt, navigate to the directory containing `initr.py`, and run:
      ```bash
      python init.py
      ```
