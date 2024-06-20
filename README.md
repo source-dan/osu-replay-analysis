@@ -28,13 +28,10 @@ This Python program is designed to parse and analyse `.osr` replay files from th
 **NOTE:** REPLAY INCLUDED IS MREKK'S 1500pp PLAY ON: Owari Tsumugishi Mono by Denkishiki Karen Ongaku Shuudan | Lasse's Extra: 
 
 ## Screenshots
-1. Terminal Setup:
-   ![Terminal Setup](https://i.ibb.co/J36N9L8/terminal-setup.png)
-
-2. Example of Key Presses Plot (`key_presses.png`):
+1. Example of Key Presses Plot (`key_presses.png`):
    ![Key Presses Plot](https://i.ibb.co/rf5Yp5R/key-presses.png)
 
-3. Example of Hold Times Plot (`hold_times.png`):
+2. Example of Hold Times Plot (`hold_times.png`):
    ![Hold Times Plot](https://i.ibb.co/FsMbgTy/hold-times.png)
 
 ## Naming Convention
